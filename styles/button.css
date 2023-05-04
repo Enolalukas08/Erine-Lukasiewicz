@@ -1,0 +1,16 @@
+.btn-gold {
+    margin: 0 auto;
+    color: white;
+    background-color: rgba(165, 42, 42, 0.772);
+    border-radius: 7px;
+    padding: 16px 16px 16px 16px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+.btn-gold:hover {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    transition: 1s;
+}
